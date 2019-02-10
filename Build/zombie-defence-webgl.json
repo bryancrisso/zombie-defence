@@ -1,0 +1,12 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "zombie-defence-webgl.data.unityweb",
+"asmCodeUrl": "zombie-defence-webgl.asm.code.unityweb",
+"asmMemoryUrl": "zombie-defence-webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "zombie-defence-webgl.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "zombie-defence-webgl.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
