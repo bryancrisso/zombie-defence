@@ -1,12 +1,12 @@
 {
-"TOTAL_MEMORY": 536870912,
+"companyName": "microspeed",
+"productName": "Call Of Nonce",
 "dataUrl": "zombie-defence-webgl.data.unityweb",
-"asmCodeUrl": "zombie-defence-webgl.asm.code.unityweb",
-"asmMemoryUrl": "zombie-defence-webgl.asm.memory.unityweb",
-"asmFrameworkUrl": "zombie-defence-webgl.asm.framework.unityweb",
+"wasmCodeUrl": "zombie-defence-webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "zombie-defence-webgl.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
-"backgroundUrl": "zombie-defence-webgl.jpg",
 "splashScreenStyle": "Dark",
-"backgroundColor": "#FFFFFF"
+"backgroundColor": "#231F20"
 }
