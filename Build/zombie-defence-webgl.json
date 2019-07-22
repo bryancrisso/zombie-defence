@@ -4,7 +4,7 @@
 "dataUrl": "zombie-defence-webgl.data.unityweb",
 "wasmCodeUrl": "zombie-defence-webgl.wasm.code.unityweb",
 "wasmFrameworkUrl": "zombie-defence-webgl.wasm.framework.unityweb",
-"TOTAL_MEMORY": 1073741824‬,
+"TOTAL_MEMORY": 1073741824,
 "graphicsAPI": ["WebGL 2.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
