@@ -5,6 +5,11 @@ WebGL version has run into an error and therefore is not working at the moment
 
 The Android beta is outdated
 
+There is now a new Windows version for download!
+
+There is no installer as of the current update but it is packaged as a compressesed .zip file.
+
+Have fun and good luck!
 
 
 
@@ -37,4 +42,4 @@ The Android beta is outdated
 
 
 
-please i need help the amount of errors i run into are scary
+
